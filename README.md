@@ -2,9 +2,9 @@
 
 ## dependencies
  - Python3
- ```pip install beautifulsoup4```
- ```pip install requests```
- ```pip install pandas```
+ - ```pip install beautifulsoup4```
+ - ```pip install requests```
+ - ```pip install pandas```
 
  ## Run
- ```python3 main.py```
+ - ```python3 main.py```
